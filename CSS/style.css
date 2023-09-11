@@ -1,12 +1,33 @@
+body {
+    background-image: linear-gradient(to right, #0f0c29, #302b63, #24243e);
+}
+
 header{
-    background-color: #ffffff;
     margin: 0;
     text-align: center;
 }
 
-.main_logo{
-    width: 250px;
-    height: 150px;
+.header {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+.image1 {
+    position: relative;
+    width: 100%;
+    top: 0;
+    left: 0;
+    border: 1px solid #000000;
+}
+
+.image2 {
+    position: absolute;
+    width: 280px;
+    height: 200px;
+    top: 125px;
+    left: 480px;
+    border: 1px solid #000000;
 }
 
 .primera_fuerza{
