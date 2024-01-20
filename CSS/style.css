@@ -25,8 +25,8 @@ header{
     position: absolute;
     width: 280px;
     height: 200px;
-    top: 125px;
-    left: 480px;
+    top: 0;
+    left: 0;
     border: 1px solid #000000;
 }
 
