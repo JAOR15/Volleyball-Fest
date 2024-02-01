@@ -31,22 +31,22 @@ header{
 
 .primera_fuerza{
     float: left;
-    width: 425px;
+    width: 30%;
     height: 350px;
     text-align: left;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
     padding-top: 50px;
-    padding-left: 50px;
+    padding-left: 30px;
 }
 .block{
-    width: 325px;
+    width: 300px;
     height: 400px;
 }
 
 .highlights{
-    align-content: center;
-    width: 425px;
+    float: left;
+    width: 33%;
     height: 350px;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
@@ -54,22 +54,22 @@ header{
     padding-top: 50px;
 }
 .video{
-    width: 325px;
+    width: 300px;
     height: 400px;
 }
 
 .segunda_fuerza{
     float: right;
-    width: 425px;
+    width: 30%;
     height: 350px;
     text-align: right;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
     padding-top: 50px;
-    padding-right: 50px;
+    padding-right: 30px;
 }
 
 .second{
-    width: 325px;
+    width: 300px;
     height: 400px;
 }
